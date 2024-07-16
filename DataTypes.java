@@ -1,6 +1,6 @@
 // <!-- Complete the function dataTypeSize() which takes a string as input and returns the size of the data type represented by the given string in byte unit.
 // Return -1 if the input data type is invalid. -->
-
+import java.util.*;
 
 class Solution {
     
